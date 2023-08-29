@@ -1,0 +1,1 @@
+This Application is only personal notifier and display ads to user.
